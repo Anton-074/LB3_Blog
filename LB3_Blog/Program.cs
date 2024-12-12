@@ -1,4 +1,6 @@
-namespace LB3_Blog.Models
+using LB3_Blog.Models;
+
+namespace LB3_Blog
 {
     internal static class Program
     {
