@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LB3_Blog;
+namespace LB3_Blog.Models;
 
 public partial class User
 {

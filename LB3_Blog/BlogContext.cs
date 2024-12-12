@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using LB3_Blog.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace LB3_Blog;
